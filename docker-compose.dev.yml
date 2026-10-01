@@ -1,7 +1,8 @@
 services:
   mongo:
-    image: mongo:latest
-    command: mongod --quiet --logpath /dev/null
+    # image: latest
+    image: mongo:7.0.12
+    command: mongod --quiet --logpath /dev/null 
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin

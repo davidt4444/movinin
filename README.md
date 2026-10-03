@@ -23,13 +23,13 @@ https://github.com/user-attachments/assets/806cbe2d-9f49-413e-9359-2546306f9653
 
 [![](https://movin-in.github.io/content/cover-1.png)](https://movinin.dynv6.net:3004/)
 
-## Movin' In
+## Thigpen Title
 
-Movin' In is a Rental Property Management Platform with an admin panel for managing properties, customers and bookings, a frontend and a mobile app for renting properties.
+Thigpen Title is a Rental Property Management Platform with an admin panel for managing properties, customers and bookings, a frontend and a mobile app for renting properties.
 
 The platform supports Stripe and PayPal payment gateways, allowing you to choose the one best suited for your country or business model. If Stripe isn't available in your region, PayPal serves as a secure and convenient alternative for accepting payments.
 
-Movin' In supports both single-agency and multi-agency modes. Agencies have access to an admin panel to manage their properties, customers, and bookings. Each newly created agency receives an email prompting them to register and access the system.
+Thigpen Title supports both single-agency and multi-agency modes. Agencies have access to an admin panel to manage their properties, customers, and bookings. Each newly created agency receives an email prompting them to register and access the system.
 
 The admin panel allows admins to manage agencies, properties, countries, locations, customers, bookings and payments.
 
@@ -109,7 +109,7 @@ Open-source software requires time, effort, and resources to maintain. Your supp
 <!--
 To contribute code or report issues, please read the [Contribution Guide](https://github.com/aelassas/movinin/blob/main/.github/CONTRIBUTING.md) to learn about the process, coding standards, and how to submit pull requests.
 
-If you want to customize Movin' In while keeping your fork up to date with the latest changes, check out the [Fork, Customize, and Sync](https://github.com/aelassas/movinin/wiki/Fork,-Customize,-and-Sync) guide in the Wiki.
+If you want to customize Thigpen Title while keeping your fork up to date with the latest changes, check out the [Fork, Customize, and Sync](https://github.com/aelassas/movinin/wiki/Fork,-Customize,-and-Sync) guide in the Wiki.
 -->
 
 ## Live Demo
@@ -152,4 +152,4 @@ You can also install the Android App by downloading the APK and installing it on
 
 ## License
 
-Movin' In is [MIT licensed](https://github.com/aelassas/movinin/blob/main/LICENSE).
+Thigpen Title is [MIT licensed](https://github.com/aelassas/movinin/blob/main/LICENSE).

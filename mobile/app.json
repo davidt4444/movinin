@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Movin' In",
+    "name": "Thigpen Title",
     "version": "7.1.0",
     "scheme": "movinin",
     "slug": "movinin",
@@ -54,7 +54,7 @@
         {
           "appID": "FACEBOOK_APP_ID",
           "clientToken": "FACEBOOK_CLIENT_TOKEN",
-          "displayName": "Movin' In",
+          "displayName": "Thigpen Title",
           "scheme": "FACEBOOK_SCHEME",
           "advertiserIDCollectionEnabled": false,
           "autoLogAppEventsEnabled": false,

@@ -1,6 +1,6 @@
 {
   "name": "movinin-mobile",
-  "description": "Mobile app for Movin' In (customer app)",
+  "description": "Mobile app for Thigpen Title (customer app)",
   "version": "7.1.0",
   "main": "expo-router/entry",
   "scripts": {

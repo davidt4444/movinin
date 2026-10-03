@@ -75,7 +75,7 @@ export const APP_TYPE: string = 'frontend'
  *
  * @type {string}
  */
-export const WEBSITE_NAME: string = String(MI_WEBSITE_NAME || "Movin' In")
+export const WEBSITE_NAME: string = String(MI_WEBSITE_NAME || "Thigpen Title")
 
 /**
  * API host.

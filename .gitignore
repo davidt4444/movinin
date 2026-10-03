@@ -7,3 +7,7 @@
 /**/dist
 /node_modules
 .eslintcache
+_backend_logs
+_cdn
+_mongodb_config
+_mongodb_data

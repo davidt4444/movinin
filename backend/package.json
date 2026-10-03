@@ -1,6 +1,6 @@
 {
   "name": "movinin-backend",
-  "description": "Backend server for Movin' In",
+  "description": "Backend server for Thigpen Title",
   "version": "7.1.0",
   "main": "index.js",
   "type": "module",

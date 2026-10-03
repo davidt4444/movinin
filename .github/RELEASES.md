@@ -1,6 +1,6 @@
 # Releases
 
-## [Movin' In 7.0](https://github.com/aelassas/movinin/releases/tag/v7.0) – 2026-03-18
+## [Thigpen Title 7.0](https://github.com/aelassas/movinin/releases/tag/v7.0) – 2026-03-18
 
 * fix(backend): optimize mailer with transporter pooling
 * fix(backend): enable secure connection for implicit TLS SMTP server
@@ -16,7 +16,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v7.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v7.0)
 
-## [Movin' In 6.9](https://github.com/aelassas/movinin/releases/tag/v6.9) – 2026-03-03
+## [Thigpen Title 6.9](https://github.com/aelassas/movinin/releases/tag/v6.9) – 2026-03-03
 
 * chore(mobile): upgrade to Expo SDK 55
 * feat(mobile): migrate navigation from react-navigation to expo-router
@@ -33,7 +33,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.9)
 
-## [Movin' In 6.8](https://github.com/aelassas/movinin/releases/tag/v6.8) – 2026-03-01
+## [Thigpen Title 6.8](https://github.com/aelassas/movinin/releases/tag/v6.8) – 2026-03-01
 
 * feat(mobile): enable React Native New Architecture
 * fix(security): enforce backend verification of mobile social auth tokens
@@ -49,7 +49,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.8)
 
-## [Movin' In 6.7](https://github.com/aelassas/movinin/releases/tag/v6.7) – 2026-02-28
+## [Thigpen Title 6.7](https://github.com/aelassas/movinin/releases/tag/v6.7) – 2026-02-28
 
 * feat(mobile): add Apple, Google, and Facebook authentication
 * fix(docker): remove version from `docker-compose.yml` (#17)
@@ -78,7 +78,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.7)
 
-## [Movin' In 6.6](https://github.com/aelassas/movinin/releases/tag/v6.6) – 2025-12-21
+## [Thigpen Title 6.6](https://github.com/aelassas/movinin/releases/tag/v6.6) – 2025-12-21
 
 * fix(docker): remove version from `docker-compose.yml` (#17)
 * fix(admin,frontend): production build issues
@@ -92,7 +92,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.6)
 
-## [Movin' In 6.5](https://github.com/aelassas/movinin/releases/tag/v6.5) – 2025-11-01
+## [Thigpen Title 6.5](https://github.com/aelassas/movinin/releases/tag/v6.5) – 2025-11-01
 
 * fix(admin,frontend): production build issues
 * chore(mobile): update dependencies
@@ -105,7 +105,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.5)
 
-## [Movin' In 6.4](https://github.com/aelassas/movinin/releases/tag/v6.4) – 2025-10-26
+## [Thigpen Title 6.4](https://github.com/aelassas/movinin/releases/tag/v6.4) – 2025-10-26
 
 * chore(mobile): upgrade to expo 54
 * chore(deps): update dependencies
@@ -122,7 +122,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.4)
 
-## [Movin' In 6.3](https://github.com/aelassas/movinin/releases/tag/v6.3) – 2025-07-24
+## [Thigpen Title 6.3](https://github.com/aelassas/movinin/releases/tag/v6.3) – 2025-07-24
 
 * feat(password-input): add toggle visibility with eye icon
 * fix(admin): hide booking prices when dates are not selected
@@ -139,7 +139,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.3)
 
-## [Movin' In 6.2](https://github.com/aelassas/movinin/releases/tag/v6.2) – 2025-07-11
+## [Thigpen Title 6.2](https://github.com/aelassas/movinin/releases/tag/v6.2) – 2025-07-11
 
 * feat: add flexible [time-based property availability](https://github.com/aelassas/movinin/wiki/FAQ#how-to-automatically-prevent-a-property-from-being-booked-multiple-times-when-its-already-booked)
 * feat(backend): integrate [Sentry](https://github.com/aelassas/movinin/wiki/Setup-Sentry) for error tracking and performance monitoring with configurable tracesSampleRate
@@ -169,7 +169,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.2)
 
-## [Movin' In 6.1](https://github.com/aelassas/movinin/releases/tag/v6.1) – 2025-06-28
+## [Thigpen Title 6.1](https://github.com/aelassas/movinin/releases/tag/v6.1) – 2025-06-28
 
 * feat(backend): add setup script to create admin user
 * feat(backend): add reset script to delete admin user
@@ -194,7 +194,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.1)
 
-## [Movin' In 6.0](https://github.com/aelassas/movinin/releases/tag/v6.0) – 2025-06-22
+## [Thigpen Title 6.0](https://github.com/aelassas/movinin/releases/tag/v6.0) – 2025-06-22
 
 * feat: add [parent locations](https://github.com/aelassas/movinin/wiki/Locations) and include child locations in search results
 * feat(mobile): upgrade to React Navigation v7
@@ -214,7 +214,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v6.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v6.0)
 
-## [Movin' In 5.9](https://github.com/aelassas/movinin/releases/tag/v5.9) – 2025-06-17
+## [Thigpen Title 5.9](https://github.com/aelassas/movinin/releases/tag/v5.9) – 2025-06-17
 
 * refactor(admin): rename backend folder to admin for clarity
 * refactor(backend): rename api folder to backend for clarity
@@ -238,7 +238,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.9)
 
-## [Movin' In 5.8](https://github.com/aelassas/movinin/releases/tag/v5.8) – 2025-06-13
+## [Thigpen Title 5.8](https://github.com/aelassas/movinin/releases/tag/v5.8) – 2025-06-13
 
 * fix(env): update CDN URLs to include port 4004 for backend, frontend, and mobile environments
 * fix(database): explicitly wait for database connection to be open
@@ -267,7 +267,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.8)
 
-## [Movin' In 5.7](https://github.com/aelassas/movinin/releases/tag/v5.7) – 2025-05-22
+## [Thigpen Title 5.7](https://github.com/aelassas/movinin/releases/tag/v5.7) – 2025-05-22
 
 * chore(mobile): upgrade to expo 53 and react-native 0.79
 * feat(admin): add blacklisted field to user and agency pages
@@ -289,7 +289,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.7)
 
-## [Movin' In 5.6](https://github.com/aelassas/movinin/releases/tag/v5.6) – 2025-05-05
+## [Thigpen Title 5.6](https://github.com/aelassas/movinin/releases/tag/v5.6) – 2025-05-05
 
 * Feat(pre-commit): optimized pre-commit hook to lint and type-check only changed projects with Docker fallback
 * Feat(pre-commit): added file size checks for pre-commit validation
@@ -308,7 +308,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.6)
 
-## [Movin' In 5.5](https://github.com/aelassas/movinin/releases/tag/v5.5) – 2025-04-28
+## [Thigpen Title 5.5](https://github.com/aelassas/movinin/releases/tag/v5.5) – 2025-04-28
 
 * Feat: added `api_logs` volume to docker-compose files for logging
 * Feat: enabled babel-plugin-react-compiler optimization in vite configuration
@@ -330,7 +330,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.5)
 
-## [Movin' In 5.4](https://github.com/aelassas/movinin/releases/tag/v5.4) – 2025-04-22
+## [Thigpen Title 5.4](https://github.com/aelassas/movinin/releases/tag/v5.4) – 2025-04-22
 
 * Feat: set up [Docker Development Environment](https://github.com/aelassas/movinin/wiki/Run-from-Source-(Docker)) with CDN Integration and Data Persistence
 * Feat: Upgrade to @mui/x-data-grid and @mui/x-date-pickers 8.0.0
@@ -353,7 +353,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.4)
 
-## [Movin' In 5.3](https://github.com/aelassas/movinin/releases/tag/v5.3) – 2025-04-12
+## [Thigpen Title 5.3](https://github.com/aelassas/movinin/releases/tag/v5.3) – 2025-04-12
 
 * Migrated to Express 5 for improved performance and future compatibility
 * Updated tos, about and contact pages in admin dashboard
@@ -378,7 +378,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.3)
 
-## [Movin' In 5.2](https://github.com/aelassas/movinin/releases/tag/v5.2) – 2025-03-30
+## [Thigpen Title 5.2](https://github.com/aelassas/movinin/releases/tag/v5.2) – 2025-03-30
 
 * Upgrade to react 19.1 and mui 7.0
 * Fix: remove unnecessary trailing spaces in multiple components for consistency
@@ -394,7 +394,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.2)
 
-## [Movin' In 5.1](https://github.com/aelassas/movinin/releases/tag/v5.1) – 2025-03-14
+## [Thigpen Title 5.1](https://github.com/aelassas/movinin/releases/tag/v5.1) – 2025-03-14
 
 * Fix: Add payPalLoaded prop to CheckoutOptions and update disabled conditions for switches in checkout
 * Fix: Merge price calculation in admin dashboard with frontend and mobile app
@@ -410,7 +410,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.1)
 
-## [Movin' In 5.0](https://github.com/aelassas/movinin/releases/tag/v5.0) – 2025-03-10
+## [Thigpen Title 5.0](https://github.com/aelassas/movinin/releases/tag/v5.0) – 2025-03-10
 
 * Upgrade to ESLint 9
 * Updated dependencies
@@ -428,7 +428,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v5.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v5.0)
 
-## [Movin' In 4.9](https://github.com/aelassas/movinin/releases/tag/v4.9) – 2025-02-26
+## [Thigpen Title 4.9](https://github.com/aelassas/movinin/releases/tag/v4.9) – 2025-02-26
 
 * Added PayPal debug environment variable `VITE_MI_PAYPAL_DEBUG` to frontend
 * Fix: update PayPal order status check from `APPROVED` to `COMPLETED` and capture order on approval
@@ -448,7 +448,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.9)
 
-## [Movin' In 4.8](https://github.com/aelassas/movinin/releases/tag/v4.8) – 2025-02-22
+## [Thigpen Title 4.8](https://github.com/aelassas/movinin/releases/tag/v4.8) – 2025-02-22
 
 * Fix: date and time pickers issues on iOS
 * Fix: reduce transition duration for accordion panel for quicker animations
@@ -465,7 +465,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.8)
 
-## [Movin' In 4.7](https://github.com/aelassas/movinin/releases/tag/v4.7) – 2025-02-13
+## [Thigpen Title 4.7](https://github.com/aelassas/movinin/releases/tag/v4.7) – 2025-02-13
 
 * Added IPInfo integration for country code retrieval
 * Added environment variables in frontend for flexible map settings
@@ -485,7 +485,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.7)
 
-## [Movin' In 4.6](https://github.com/aelassas/movinin/releases/tag/v4.6) – 2025-02-08
+## [Thigpen Title 4.6](https://github.com/aelassas/movinin/releases/tag/v4.6) – 2025-02-08
 
 * Added user context to admin dashboard
 * Added `VITE_MI_HIDE_AGENCIES` setting to toggle agency visibility in the frontend
@@ -506,7 +506,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.6)
 
-## [Movin' In 4.5](https://github.com/aelassas/movinin/releases/tag/v4.5) – 2025-02-02
+## [Thigpen Title 4.5](https://github.com/aelassas/movinin/releases/tag/v4.5) – 2025-02-02
 
 * [Integrated PayPal Payment Gateway](https://github.com/aelassas/movinin/wiki/Payment-Gateways)
 * [Added Property Scheduler](https://movin-in.github.io/content/screenshots/v4.5/backend-scheduler.png?raw=true)
@@ -526,7 +526,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.5)
 
-## [Movin' In 4.4](https://github.com/aelassas/movinin/releases/tag/v4.4) – 2025-01-19
+## [Thigpen Title 4.4](https://github.com/aelassas/movinin/releases/tag/v4.4) – 2025-01-19
 
 * Added dynamic company/website name setting
 * Added cookie policy and privacy pages
@@ -548,7 +548,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.4)
 
-## [Movin' In 4.3](https://github.com/aelassas/movinin/releases/tag/v4.3) – 2025-01-08
+## [Thigpen Title 4.3](https://github.com/aelassas/movinin/releases/tag/v4.3) – 2025-01-08
 
 * Added property coordinates
 * Added property address and Google Maps link to confirmation email after successful checkout
@@ -574,7 +574,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.3)
 
-## [Movin' In 4.2](https://github.com/aelassas/movinin/releases/tag/v4.2) – 2025-01-03
+## [Thigpen Title 4.2](https://github.com/aelassas/movinin/releases/tag/v4.2) – 2025-01-03
 
 * Added map view to checkout page
 * Added footer to property page
@@ -596,7 +596,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.2)
 
-## [Movin' In 4.1](https://github.com/aelassas/movinin/releases/tag/v4.1) – 2024-12-31
+## [Thigpen Title 4.1](https://github.com/aelassas/movinin/releases/tag/v4.1) – 2024-12-31
 
 * Added user context for managing user state
 * Improved Header component responsiveness
@@ -615,7 +615,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.1)
 
-## [Movin' In 4.0](https://github.com/aelassas/movinin/releases/tag/v4.0) – 2024-12-29
+## [Thigpen Title 4.0](https://github.com/aelassas/movinin/releases/tag/v4.0) – 2024-12-29
 
 * Improved global performance on [Google PageSpeed Insights](https://pagespeed.web.dev/) (95/100)
 * Fix: reCAPTCHA context doesn't work properly
@@ -636,7 +636,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v4.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v4.0)
 
-## [Movin' In 3.9](https://github.com/aelassas/movinin/releases/tag/v3.9) – 2024-12-27
+## [Thigpen Title 3.9](https://github.com/aelassas/movinin/releases/tag/v3.9) – 2024-12-27
 
 * Added [multiple currency support](https://github.com/aelassas/movinin/wiki/Add-New-Currency)
 * Added services and customer care sections to homepage
@@ -659,7 +659,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.9)
 
-## [Movin' In 3.8](https://github.com/aelassas/movinin/releases/tag/v3.8) – 2024-12-23
+## [Thigpen Title 3.8](https://github.com/aelassas/movinin/releases/tag/v3.8) – 2024-12-23
 
 * Upgrade to React 19 stable, Expo 52 and React Native 0.76
 * Added React Compiler ESLint rules
@@ -687,7 +687,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.8)
 
-## [Movin' In 3.7](https://github.com/aelassas/movinin/releases/tag/v3.7) – 2024-09-16
+## [Thigpen Title 3.7](https://github.com/aelassas/movinin/releases/tag/v3.7) – 2024-09-16
 
 * Added coutries, agencies and destinations pages
 * Added destinations carrousel to homepage
@@ -713,7 +713,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.7)
 
-## [Movin' In 3.6](https://github.com/aelassas/movinin/releases/tag/v3.6) – 2024-08-16
+## [Thigpen Title 3.6](https://github.com/aelassas/movinin/releases/tag/v3.6) – 2024-08-16
 
 * Added social login
 * Added pull to refresh to mobile app
@@ -736,7 +736,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.6)
 
-## [Movin' In 3.5](https://github.com/aelassas/movinin/releases/tag/v3.5) – 2024-07-05
+## [Thigpen Title 3.5](https://github.com/aelassas/movinin/releases/tag/v3.5) – 2024-07-05
 
 * Updated layout and colors
 * Updated checkout page
@@ -805,7 +805,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.5)
 
-## [Movin' In 3.4](https://github.com/aelassas/movinin/releases/tag/v3.4) – 2024-05-29
+## [Thigpen Title 3.4](https://github.com/aelassas/movinin/releases/tag/v3.4) – 2024-05-29
 
 * Migrate from craco to vite
 * Added property sort by daily price
@@ -856,7 +856,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.4)
 
-## [Movin' In 3.3](https://github.com/aelassas/movinin/releases/tag/v3.3) – 2024-05-18
+## [Thigpen Title 3.3](https://github.com/aelassas/movinin/releases/tag/v3.3) – 2024-05-18
 
 * Upgrade to Google reCAPTCHA v3
 * Fix checkout issues
@@ -902,7 +902,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.3)
 
-## [Movin' In 3.2](https://github.com/aelassas/movinin/releases/tag/v3.2) – 2024-05-14
+## [Thigpen Title 3.2](https://github.com/aelassas/movinin/releases/tag/v3.2) – 2024-05-14
 
 * Upgrade to Expo SDK 51
 * Fix checkout issues
@@ -953,7 +953,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.2)
 
-## [Movin' In 3.1](https://github.com/aelassas/movinin/releases/tag/v3.1) – 2024-05-07
+## [Thigpen Title 3.1](https://github.com/aelassas/movinin/releases/tag/v3.1) – 2024-05-07
 
 * Added Google Pay and Apple Pay to mobile app
 * Added `REACT_APP_BC_STRIPE_CURRENCY_CODE` setting to the frontend
@@ -976,7 +976,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.1)
 
-## [Movin' In 3.0](https://github.com/aelassas/movinin/releases/tag/v3.0) – 2024-05-03
+## [Thigpen Title 3.0](https://github.com/aelassas/movinin/releases/tag/v3.0) – 2024-05-03
 
 * Fixed push notifications issues in Android app related to FCM V1
 * Fixed some issues in `DateTimePicker` component
@@ -1013,7 +1013,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v3.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v3.0)
 
-## [Movin' In 2.9](https://github.com/aelassas/movinin/releases/tag/v2.9) – 2024-04-30
+## [Thigpen Title 2.9](https://github.com/aelassas/movinin/releases/tag/v2.9) – 2024-04-30
 
 * Added all active Stripe Payment methods to the frontend
 * Updated Stripe Payment integration in the backend, the frontend and the mobile app
@@ -1038,7 +1038,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.9)
 
-## [Movin' In 2.8](https://github.com/aelassas/movinin/releases/tag/v2.8) – 2024-04-27
+## [Thigpen Title 2.8](https://github.com/aelassas/movinin/releases/tag/v2.8) – 2024-04-27
 
 * Added [stripe payment gateway](https://github.com/aelassas/bookcars/wiki/Setup-Stripe)
 * Fixed some issues in mobile layout
@@ -1066,7 +1066,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.8)
 
-## [Movin' In 2.7](https://github.com/aelassas/movinin/releases/tag/v2.7) – 2024-04-24
+## [Thigpen Title 2.7](https://github.com/aelassas/movinin/releases/tag/v2.7) – 2024-04-24
 
 * Fixed some issues in `BookingList`, `DatePicker` and `DateTimePicker` components
 * Fixed some issues in `Bookings` and `User` pages
@@ -1090,7 +1090,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.7)
 
-## [Movin' In 2.6](https://github.com/aelassas/movinin/releases/tag/v2.6) – 2024-04-18
+## [Thigpen Title 2.6](https://github.com/aelassas/movinin/releases/tag/v2.6) – 2024-04-18
 
 * Updated currency and price formats
 * Fixed some issues related to `BookingList` and `MultipleSelect` components
@@ -1125,7 +1125,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.6)
 
-## [Movin' In 2.5](https://github.com/aelassas/movinin/releases/tag/v2.5) – 2024-04-13
+## [Thigpen Title 2.5](https://github.com/aelassas/movinin/releases/tag/v2.5) – 2024-04-13
 
 * Added winston logging to the API
 * Added React Context to the backend, the frontend and the mobile app
@@ -1159,7 +1159,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.5)
 
-## [Movin' In 2.4](https://github.com/aelassas/movinin/releases/tag/v2.4) – 2024-04-05
+## [Thigpen Title 2.4](https://github.com/aelassas/movinin/releases/tag/v2.4) – 2024-04-05
 
 * Added `stylelint` scripts
 * Updated home, search, property and checkout pages
@@ -1216,7 +1216,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.4)
 
-## [Movin' In 2.3](https://github.com/aelassas/movinin/releases/tag/v2.3) – 2024-03-18
+## [Thigpen Title 2.3](https://github.com/aelassas/movinin/releases/tag/v2.3) – 2024-03-18
 
 * Reached 100% code coverage in the API
 * Upgrade to TypeScript 5.4
@@ -1269,7 +1269,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.3)
 
-## [Movin' In 2.2](https://github.com/aelassas/movinin/releases/tag/v2.2) – 2024-02-29
+## [Thigpen Title 2.2](https://github.com/aelassas/movinin/releases/tag/v2.2) – 2024-02-29
 
 * Added [unit tests and coverage](https://github.com/aelassas/movinin/wiki/Unit-Tests-and-Coverage)
 * Updated eslint presets
@@ -1335,7 +1335,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.2)
 
-## [Movin' In 2.1](https://github.com/aelassas/movinin/releases/tag/v2.1) – 2024-01-29
+## [Thigpen Title 2.1](https://github.com/aelassas/movinin/releases/tag/v2.1) – 2024-01-29
 
 * Upgrade to Expo SDK 50
 * Fixed `react-toastify` issues
@@ -1397,7 +1397,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.1)
 
-## [Movin' In 2.0](https://github.com/aelassas/movinin/releases/tag/v2.0) – 2024-01-10
+## [Thigpen Title 2.0](https://github.com/aelassas/movinin/releases/tag/v2.0) – 2024-01-10
 
 * Updated Search component
 * Replaced `ts-node` by `tsx`
@@ -1449,7 +1449,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v2.0)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v2.0)
 
-## [Movin' In 1.9](https://github.com/aelassas/movinin/releases/tag/v1.9) – 2023-12-14
+## [Thigpen Title 1.9](https://github.com/aelassas/movinin/releases/tag/v1.9) – 2023-12-14
 
 * Fixed autocomplete issues
 * Fixed TextField clear issues
@@ -1490,7 +1490,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.9)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.9)
 
-## [Movin' In 1.8](https://github.com/aelassas/movinin/releases/tag/v1.8) – 2023-12-03
+## [Thigpen Title 1.8](https://github.com/aelassas/movinin/releases/tag/v1.8) – 2023-12-03
 
 * Upgrade to TypeScript 5.3
 * API:
@@ -1540,7 +1540,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.8)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.8)
 
-## [Movin' In 1.7](https://github.com/aelassas/movinin/releases/tag/v1.7) – 2023-11-18
+## [Thigpen Title 1.7](https://github.com/aelassas/movinin/releases/tag/v1.7) – 2023-11-18
 
 * Updated MongoDB queries
 * Updated nodemon configuration
@@ -1603,7 +1603,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.7)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.7)
 
-## [Movin' In 1.6](https://github.com/aelassas/movinin/releases/tag/v1.6) – 2023-11-02
+## [Thigpen Title 1.6](https://github.com/aelassas/movinin/releases/tag/v1.6) – 2023-11-02
 
 * Added Babel transcompiler to api
 * Updated eslint preset
@@ -1671,7 +1671,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.6)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.6)
 
-## [Movin' In 1.5](https://github.com/aelassas/movinin/releases/tag/v1.5) – 2023-10-14
+## [Thigpen Title 1.5](https://github.com/aelassas/movinin/releases/tag/v1.5) – 2023-10-14
 
 * Added `cors` and `allowedMethods` middlewares
 * Fixed some issues related to bookings
@@ -1710,7 +1710,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.5)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.5)
 
-## [Movin' In 1.4](https://github.com/aelassas/movinin/releases/tag/v1.4) – 2023-10-09
+## [Thigpen Title 1.4](https://github.com/aelassas/movinin/releases/tag/v1.4) – 2023-10-09
 
 * Secured the backend and the frontend against XSS, XST, CSRF and MITM
 * Updated eslint preset
@@ -1739,7 +1739,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.4)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.4)
 
-## [Movin' In 1.3](https://github.com/aelassas/movinin/releases/tag/v1.3) – 2023-10-06
+## [Thigpen Title 1.3](https://github.com/aelassas/movinin/releases/tag/v1.3) – 2023-10-06
 
 * Made localization more generic
 * Updated language menu color in the mobile app
@@ -1768,7 +1768,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.3)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.3)
 
-## [Movin' In 1.2](https://github.com/aelassas/movinin/releases/tag/v1.2) – 2023-10-04
+## [Thigpen Title 1.2](https://github.com/aelassas/movinin/releases/tag/v1.2) – 2023-10-04
 
 * Added airbnb preset
 * Updated deployment scripts and services
@@ -1809,7 +1809,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.2)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.2)
 
-## [Movin' In 1.1](https://github.com/aelassas/movinin/releases/tag/v1.1) – 2023-09-29
+## [Thigpen Title 1.1](https://github.com/aelassas/movinin/releases/tag/v1.1) – 2023-09-29
 
 * Added `build:android:preview` and `build:ios:preview` commands
 * Added jsdoc to the api, the backend, the frontend and the mobile app
@@ -1859,7 +1859,7 @@
 - [Source code (zip)](https://api.github.com/repos/aelassas/movinin/zipball/v1.1)
 - [Source code (tar)](https://api.github.com/repos/aelassas/movinin/tarball/v1.1)
 
-## [Movin' In 1.0](https://github.com/aelassas/movinin/releases/tag/v1.0) – 2023-09-20
+## [Thigpen Title 1.0](https://github.com/aelassas/movinin/releases/tag/v1.0) – 2023-09-20
 
 Initial release
 

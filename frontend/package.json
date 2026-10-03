@@ -1,6 +1,6 @@
 {
   "name": "movinin-frontend",
-  "description": "Public web frontend for Movin' In (customer-facing website)",
+  "description": "Public web frontend for Thigpen Title (customer-facing website)",
   "private": true,
   "version": "7.1.0",
   "type": "module",

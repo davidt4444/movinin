@@ -466,7 +466,7 @@ const CheckoutScreen = () => {
             const { error: initPaymentSheetError } = await initPaymentSheet({
               customerId,
               paymentIntentClientSecret: clientSecret,
-              merchantDisplayName: "Movin' In",
+              merchantDisplayName: "Thigpen Title",
               googlePay: {
                 merchantCountryCode: env.STRIPE_COUNTRY_CODE.toUpperCase(),
                 testEnv: env.STRIPE_PUBLISHABLE_KEY.includes('_test_'),
